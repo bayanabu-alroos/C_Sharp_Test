@@ -1,0 +1,21 @@
+float a;
+Console.Write("Please inter bill value in JD: ");
+if(float.TryParse(Console.ReadLine(), out a))
+{
+    if (a > 20 && a < 50) { Console.WriteLine("you will get a 10 JD coupon"); }
+    else if (a >= 50 && a < 100) { Console.WriteLine("you will get a 20 JD coupon"); }
+    else if (a >= 100)
+    {
+        Console.WriteLine("you will get 25% discuont of the total price");
+        Console.WriteLine("your bill after discount = {0}JD", (a * 0.75));
+    }
+    else if (a < 20 && a >= 0) { Console.WriteLine("sorry, you will not get any discount"); }
+    else if (a < 0) { Console.WriteLine("Wrong bill value"); }
+}
+else
+{
+    Console.WriteLine("Invalid Input");
+}
+
+
+ 

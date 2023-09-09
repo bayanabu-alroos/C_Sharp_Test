@@ -1,0 +1,86 @@
+int a;
+if(int.TryParse(Console.ReadLine(),out a))
+{
+    if (a == 100)
+    {
+        Console.WriteLine("Very Good ");
+    }
+    else
+    {
+        if (int.TryParse(Console.ReadLine(), out a))
+        {
+            if (a == 100)
+            {
+                Console.WriteLine("Very Good ");
+            }
+            else
+            {
+                if (int.TryParse(Console.ReadLine(), out a))
+                {
+                    if (a == 100)
+                    {
+                        Console.WriteLine("Very Good ");
+                    }
+                    else
+                    {
+                        if (int.TryParse(Console.ReadLine(), out a))
+                        {
+                            if (a == 100)
+                            {
+                                Console.WriteLine("Very Good ");
+                            }
+                            else
+                            {
+                                if (int.TryParse(Console.ReadLine(), out a))
+                                {
+                                    if (a == 100)
+                                    {
+                                        Console.WriteLine("Very Good ");
+                                    }
+                                    else
+                                    {
+                                        if (int.TryParse(Console.ReadLine(), out a))
+                                        {
+                                            if (a == 100)
+                                            {
+                                                Console.WriteLine("Very Good ");
+                                            }
+                                            else
+                                            {
+
+                                            }
+                                        }
+                                        else
+                                        {
+                                            Console.WriteLine("Just Enter Integers Numbers");
+                                        }
+                                    }
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Just Enter Integers Numbers");
+                                }
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Just Enter Integers Numbers");
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Just Enter Integers Numbers");
+                }
+            }
+        }
+        else
+        {
+            Console.WriteLine("Just Enter Integers Numbers");
+        }
+    }
+}
+else
+{
+    Console.WriteLine("Just Enter Integers Numbers");
+}

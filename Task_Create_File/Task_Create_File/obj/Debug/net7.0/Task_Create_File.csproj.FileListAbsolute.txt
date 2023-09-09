@@ -1,0 +1,14 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\bin\Debug\net7.0\Task_Create_File.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\bin\Debug\net7.0\Task_Create_File.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\bin\Debug\net7.0\Task_Create_File.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\bin\Debug\net7.0\Task_Create_File.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\bin\Debug\net7.0\Task_Create_File.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\refint\Task_Create_File.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\Task_Create_File.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task_Create_File\Task_Create_File\obj\Debug\net7.0\ref\Task_Create_File.dll

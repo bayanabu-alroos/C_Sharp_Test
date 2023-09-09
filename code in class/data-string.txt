@@ -1,0 +1,14 @@
+//numberic , char , boolean -----> String 
+byte a = 10+1;
+short b = 10+2;
+int c = 10+3;   
+long d = 10+4;
+float f = 10+5;
+double g = 10+6;
+decimal hc = 10+7;
+char c1 = 'd';
+bool b1 = true;
+string z = b1 + "";
+string z2 = b1.ToString(); 
+Console.WriteLine(a);
+Console.WriteLine(z);

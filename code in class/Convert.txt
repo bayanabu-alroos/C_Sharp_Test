@@ -1,0 +1,20 @@
+//string ---> numeric 
+string test = "150";
+byte a = Convert.ToByte(test);
+short b = Convert.ToInt16(test);
+int c = Convert.ToInt32(test);
+long d = Convert.ToInt64(test); 
+float f = Convert.ToSingle(test);
+double g = Convert.ToDouble(test);  
+decimal h = Convert.ToDecimal(test);
+Console.WriteLine(c+20);
+//==================================================
+//string ---> boolean
+string test2 = "TRue";
+bool b1 = Convert.ToBoolean(test2);
+Console.WriteLine(b1);
+//==================================================
+//string ---> char
+string test3 = "H";
+char c3 = Convert.ToChar(test3);
+Console.WriteLine((int)c3);

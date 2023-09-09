@@ -1,0 +1,14 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\bin\Debug\net7.0\Thread Task.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\bin\Debug\net7.0\Thread Task.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\bin\Debug\net7.0\Thread Task.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\bin\Debug\net7.0\Thread Task.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\bin\Debug\net7.0\Thread Task.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\refint\Thread Task.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\Thread Task.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Thread Task\Thread Task\obj\Debug\net7.0\ref\Thread Task.dll

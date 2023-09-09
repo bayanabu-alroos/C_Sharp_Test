@@ -1,0 +1,18 @@
+//double ---> decimal , long,int ,short,byte
+double doc = 158523.544658415;
+decimal a = (decimal)doc;
+long b = (long)doc;
+int c = (int)doc;
+short d = (short)doc;
+byte e = (byte)doc;
+
+//char --> 
+byte tb1 = 97;
+byte tb2 = 98;
+byte tb3 = 99;
+byte tb4 = 100;
+
+short tb25 = 8535;
+double uy = 97.966264;
+char testChar = (char)uy;
+Console.Write(""+(char)tb1+ (char)tb2+ (char)tb3+ (char)tb4);

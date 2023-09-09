@@ -1,0 +1,12 @@
+//int num1 = Convert.ToInt32(Console.ReadLine());
+//int num2 = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine(num1 + num2);
+////***************************************************
+//int num11 = Int32.Parse(Console.ReadLine());
+//int num22 = Int32.Parse(Console.ReadLine());
+//Console.WriteLine(num11 + num22);
+//****************************************************
+int num111, num222;
+Int32.TryParse(Console.ReadLine(), out num111);
+Int32.TryParse(Console.ReadLine(), out num222);
+Console.WriteLine(num111 + num222);

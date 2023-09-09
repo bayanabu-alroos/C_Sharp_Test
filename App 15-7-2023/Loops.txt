@@ -1,0 +1,81 @@
+
+//*************************************************************
+// ForLoop
+//for(int i = 0; i < 4; i++)
+//{
+//    int a;
+//    if (int.TryParse(Console.ReadLine(), out a))
+//    {
+//        if (a == 100)
+//        {
+//            Console.WriteLine("Very Good ");
+//            break;
+//        }
+//        else
+//        {
+//            Console.WriteLine("Wrong Guess Please Try Agin");
+//        }
+//    }
+//    else
+//    {
+//        Console.WriteLine("Invalid Input Please Try Agin");
+//    }
+
+//}
+//****************************************************************
+//While
+//int a ,counter=0;
+//int.TryParse(Console.ReadLine(), out a);
+//while (a != 100 && counter<3)
+//{
+//    counter++;
+//    Console.WriteLine("Invalid Input Please Try Agin");
+//    int.TryParse(Console.ReadLine(), out a);
+//}
+//Console.WriteLine("Very Good");
+//int a, counter = 0;
+//while (counter < 4)
+//{
+//    int.TryParse(Console.ReadLine(), out a);
+//    if (a == 100)
+//    {
+//        Console.WriteLine("Very Good");
+//        break;
+//    }
+
+
+//}
+//int a, counter = 0;
+//while (true)
+//{
+//    int.TryParse(Console.ReadLine(), out a);
+//    if (a == 100)
+//    {
+//        Console.WriteLine("Very Good");
+//        break;
+//    }
+//    else
+//    {
+//        if (counter < 3)
+//        {
+//            counter++;
+//            Console.WriteLine("Invalid Input Please Try Agin");
+//            continue;
+//        }
+//        break;
+//    }
+//}
+//*********************************************************************************************
+//Do .. While 
+int a,counter = 0;
+do
+{
+    int.TryParse(Console.ReadLine(), out a);
+    if (a == 100)
+    {
+        Console.WriteLine("Vey Good");
+        break;
+    }
+    counter++;
+} while (counter<4);
+

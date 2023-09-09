@@ -1,0 +1,20 @@
+//string ---> numeric 
+string test = "150";
+byte a = Byte.Parse(test);
+short b = Int16.Parse(test);
+int c = Int32.Parse(test);
+long d = Int64.Parse(test); 
+float f = float.Parse(test);
+double g = Double.Parse(test);  
+decimal h = Decimal.Parse(test);
+Console.WriteLine(c+20);
+//==================================================
+//string ---> boolean
+string test2 = "TRue";
+bool b1 = Boolean.Parse(test2);
+Console.WriteLine(b1);
+//==================================================
+//string ---> char
+string test3 = "H";
+char c3 = Char.Parse(test3);
+Console.WriteLine((int)c3);

@@ -1,0 +1,15 @@
+int n;
+float sum = 0;
+Console.WriteLine("Please Enter The N Value :");
+int.TryParse(Console.ReadLine(), out n);
+if (n > 1)
+{
+    float[] numbers = new float[n];
+    for (int i = 1; i <= n; i++)
+    {
+        float y = i * 13 / 22;
+        sum += y;
+        numbers[i - 1]= sum;
+    }
+}
+Console.WriteLine(sum);

@@ -1,0 +1,15 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\bin\Debug\net7.0\2-8-2023.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\bin\Debug\net7.0\2-8-2023.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\bin\Debug\net7.0\2-8-2023.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\bin\Debug\net7.0\2-8-2023.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\bin\Debug\net7.0\2-8-2023.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.csproj.AssemblyReference.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\refint\2-8-2023.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\2-8-2023.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\2-8-2023\2-8-2023\obj\Debug\net7.0\ref\2-8-2023.dll

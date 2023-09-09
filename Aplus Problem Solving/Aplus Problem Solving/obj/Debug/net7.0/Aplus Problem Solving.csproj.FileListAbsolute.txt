@@ -1,0 +1,14 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\bin\Debug\net7.0\Aplus Problem Solving.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\bin\Debug\net7.0\Aplus Problem Solving.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\bin\Debug\net7.0\Aplus Problem Solving.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\bin\Debug\net7.0\Aplus Problem Solving.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\bin\Debug\net7.0\Aplus Problem Solving.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\refint\Aplus Problem Solving.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\Aplus Problem Solving.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus Problem Solving\Aplus Problem Solving\obj\Debug\net7.0\ref\Aplus Problem Solving.dll

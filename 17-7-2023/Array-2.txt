@@ -1,0 +1,31 @@
+//int[] mars;
+//int[] mars2 = { 7,8,9};
+//int[] mars3 = new int[3] { 7,8,9};
+int [] mark = new int[5];
+int sum = 0;
+float avg = 0;
+int counter = 0;
+//for (int i = 0; i < 100; i++)
+//{
+    while (counter < 5)
+    {
+        Console.WriteLine("Please Enter Mark :");
+        if (int.TryParse(Console.ReadLine(), out mark[counter]))
+        {
+            
+            sum += mark[counter];
+            counter++;
+        }
+        else
+        {
+            Console.WriteLine("Invalid Input Please Try Again :");
+        }
+    }
+    avg = sum / 5;
+    Console.WriteLine("Avg = {0}", avg);
+    Console.WriteLine("Third Mark = {0}", mark[2]);
+    Console.WriteLine(mark.Max());
+//}
+int[,] ints = new int[5,5];
+int[,] ints2;
+int[,] ints3 = { { 1,2} ,{ 3,5} };

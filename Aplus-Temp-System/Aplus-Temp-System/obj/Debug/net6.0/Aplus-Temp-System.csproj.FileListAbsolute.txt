@@ -1,0 +1,14 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\bin\Debug\net6.0\Aplus-Temp-System.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\bin\Debug\net6.0\Aplus-Temp-System.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\bin\Debug\net6.0\Aplus-Temp-System.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\bin\Debug\net6.0\Aplus-Temp-System.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\bin\Debug\net6.0\Aplus-Temp-System.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\refint\Aplus-Temp-System.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\Aplus-Temp-System.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Aplus-Temp-System\Aplus-Temp-System\obj\Debug\net6.0\ref\Aplus-Temp-System.dll

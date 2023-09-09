@@ -1,0 +1,15 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\bin\Debug\net7.0\Task App2.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\bin\Debug\net7.0\Task App2.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\bin\Debug\net7.0\Task App2.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\bin\Debug\net7.0\Task App2.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\bin\Debug\net7.0\Task App2.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.csproj.AssemblyReference.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\refint\Task App2.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\Task App2.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\Task App2\Task App2\obj\Debug\net7.0\ref\Task App2.dll

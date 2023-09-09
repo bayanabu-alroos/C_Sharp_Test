@@ -1,0 +1,15 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.csproj.AssemblyReference.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\bin\Debug\net7.0\26-7-2027.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\bin\Debug\net7.0\26-7-2027.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\bin\Debug\net7.0\26-7-2027.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\bin\Debug\net7.0\26-7-2027.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\bin\Debug\net7.0\26-7-2027.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\refint\26-7-2027.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\26-7-2027.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\26-7-2027\26-7-2027\obj\Debug\net7.0\ref\26-7-2027.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplus-Temp-System", "Aplus-Temp-System\Aplus-Temp-System.csproj", "{A56F044A-D112-42BD-8243-96D95D20913B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56F044A-D112-42BD-8243-96D95D20913B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56F044A-D112-42BD-8243-96D95D20913B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56F044A-D112-42BD-8243-96D95D20913B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56F044A-D112-42BD-8243-96D95D20913B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5B0965-C4EB-4664-AFD6-D919CCA2219F}
+	EndGlobalSection
+EndGlobal

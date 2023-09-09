@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aplus Problem Solving/1.0.0": {
+        "runtime": {
+          "Aplus Problem Solving.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplus Problem Solving/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

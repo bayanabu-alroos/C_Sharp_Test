@@ -1,0 +1,15 @@
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\bin\Debug\net6.0\value-opration.exe
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\bin\Debug\net6.0\value-opration.deps.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\bin\Debug\net6.0\value-opration.runtimeconfig.json
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\bin\Debug\net6.0\value-opration.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\bin\Debug\net6.0\value-opration.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.csproj.AssemblyReference.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\refint\value-opration.dll
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.pdb
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\value-opration.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Desktop\C# Training\value-opration\value-opration\obj\Debug\net6.0\ref\value-opration.dll

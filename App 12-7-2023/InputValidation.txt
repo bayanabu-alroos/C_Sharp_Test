@@ -1,0 +1,70 @@
+char letter;
+string name;
+int number;
+double percent;
+bool condition;
+
+if(char.TryParse(Console.ReadLine(),out letter))
+{
+    int a = letter;
+    switch (a)
+    {
+        case 33:
+        case 36:
+        case 35:
+        case 38:
+        case 64:
+            Console.WriteLine("Correct Letter Input");
+            break;
+        default:
+            Console.WriteLine("Invalid Letter Input");
+            break;
+    }
+}
+else
+{
+    Console.WriteLine("Invalid Input");
+}
+//***********************************************************
+if ((name=Console.ReadLine())=="Jasser")
+{
+    Console.WriteLine("Correct String Input");
+}
+else
+{
+    Console.WriteLine("Invalid String Input");
+}
+//***********************************************************
+if (int.TryParse(Console.ReadLine(), out number))
+{
+    if (number > 50 && number < 70)
+        Console.WriteLine("Correct Integer Number");
+    else
+        Console.WriteLine("Invalid Integer Number");
+}
+else
+{
+    Console.WriteLine("Invalid Input");
+}
+//***********************************************************
+if (double.TryParse(Console.ReadLine(), out percent))
+{
+    if (percent > 0 && percent < 1)
+        Console.WriteLine("Correct Double Number");
+    else
+        Console.WriteLine("Invalid Double Number");
+}
+else
+{
+    Console.WriteLine("Invalid Input");
+}
+//***********************************************************
+if (bool.TryParse(Console.ReadLine(), out condition))
+{
+    Console.WriteLine("Correct Boolean Value");
+}
+else
+{
+    Console.WriteLine("Invalid Input");
+}
+//***********************************************************

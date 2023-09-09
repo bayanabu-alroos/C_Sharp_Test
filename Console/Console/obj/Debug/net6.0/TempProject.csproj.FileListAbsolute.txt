@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Console\Console\bin\Debug\net6.0\TempProject.exe
+C:\Users\ASUS\source\repos\Console\Console\bin\Debug\net6.0\TempProject.deps.json
+C:\Users\ASUS\source\repos\Console\Console\bin\Debug\net6.0\TempProject.runtimeconfig.json
+C:\Users\ASUS\source\repos\Console\Console\bin\Debug\net6.0\TempProject.dll
+C:\Users\ASUS\source\repos\Console\Console\bin\Debug\net6.0\TempProject.pdb
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.dll
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\refint\TempProject.dll
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.pdb
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\TempProject.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Console\Console\obj\Debug\net6.0\ref\TempProject.dll

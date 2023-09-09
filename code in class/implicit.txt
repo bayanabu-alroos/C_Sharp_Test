@@ -1,0 +1,37 @@
+//byte ---> short,int,long,float,double,decimal,string
+byte a = 8;
+short b = a;
+int c = a;
+long d = a;
+float e= a;
+double f = a;
+decimal g = a;
+//short --->int,long,float,double,decimal
+short b1 = 75;
+int c1 = b1;
+long d1 = b1;
+float e1 = b1;
+double f1 = b1;
+decimal g1 = b1;
+
+//int --->long,float,double,decimal
+int c2 = 180;
+long d2 = c2;
+float e2 = c2;
+double f2 = c2;
+decimal g2 = c2;
+//long ---> float,double,decimal
+long d3 = 96592959626959652;
+float e3 = d3;
+double f3 = d3;
+decimal g3 = d3;
+//float ----> double,decimal
+float e4 = 85.95266952632f;
+double f4 = e4;
+//double ----> decimal
+double d5 = 85950.553544851;
+//char --> int . long .float .double .decimal 
+char v = 'D';
+int z = v;
+long zzzz = v;
+double zzz2 = v;
